@@ -15,3 +15,12 @@
 * You should be making use of the existing placeholders for entering content (i.e. "firstNumber", "operator", "secondNumber", "result").
 
 * You should have fun and push yourselves! This is a challenge activity—which means, if you get it done, you are a King of jQuery. If you don't, no sweat. The important thing is that you learned at least a FEW things along the way.
+
+
+<!-- 
+1. user inputs first number
+2. user selects operator
+3. user inputs second number
+4. user ask for result
+5. display result
+ -->
